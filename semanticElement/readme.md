@@ -20,5 +20,5 @@ Using standardized tags ensures a consistent approach across different web proje
     "section": Represents a standalone section of content, typically with a heading.<br>
     "aside": Represents a portion of a document whose content is only indirectly related to the document's main <br>content.
     "footer": Represents the footer for its nearest sectioning content or sectioning root element.<br>
-    "figure": Represents self-contained content, typically with a caption (<figcaption>), and is commonly used to refer to images, diagrams, illustrations, etc.<br>
+    "figure": Represents self-contained content, typically with a caption (<figcaption>), and is commonly used to refer to images, diagrams, illustrations, etc.<br><br>
 By using these tags appropriately, you can make your HTML more semantic and your web content more structured and meaningful.
