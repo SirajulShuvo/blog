@@ -14,14 +14,14 @@
 <h1>Basic Example</h1>
 Here's a simple example of a CSS Grid layout:<br>
 
-<div class="grid-container">
+"<div class="grid-container">
   <div class="grid-item">1</div>
   <div class="grid-item">2</div>
   <div class="grid-item">3</div>
   <div class="grid-item">4</div>
   <div class="grid-item">5</div>
   <div class="grid-item">6</div>
-</div>
+</div>"
 
 <style>
   .grid-container {
@@ -36,7 +36,8 @@ Here's a simple example of a CSS Grid layout:<br>
     text-align: center;
   }
 </style>
-<h1>Conclusion<h1>
+<h1>Conclusion</h1>
+
 <p>CSS Grid Layout is an essential tool for modern web developers. It simplifies the creation of complex, responsive layouts and enhances the overall user experience. Feel free to check out my projects to see CSS Grid Layout in action!</p>
 
 
