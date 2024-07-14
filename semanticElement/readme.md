@@ -13,12 +13,12 @@
 Using standardized tags ensures a consistent approach across different web projects.
 
 <h1>Common Semantic HTML Tags:</h1>
-    <header>: Represents introductory content, typically a group of introductory or navigational aids.<br>
-    <nav>: Represents a section of the page intended for navigation.<br>
-    <main>: Represents the main content of the body of a document.<br>
-    <article>: Represents a self-contained composition that could be independently distributed or reused.<br>
-    <section>: Represents a standalone section of content, typically with a heading.<br>
-    <aside>: Represents a portion of a document whose content is only indirectly related to the document's main <br>content.
-    <footer>: Represents the footer for its nearest sectioning content or sectioning root element.<br>
-    <figure>: Represents self-contained content, typically with a caption (<figcaption>), and is commonly used to refer to images, diagrams, illustrations, etc.<br>
+    "header": Represents introductory content, typically a group of introductory or navigational aids.<br>
+    "nav": Represents a section of the page intended for navigation.<br>
+    "main": Represents the main content of the body of a document.<br>
+    "article": Represents a self-contained composition that could be independently distributed or reused.<br>
+    "section": Represents a standalone section of content, typically with a heading.<br>
+    "aside": Represents a portion of a document whose content is only indirectly related to the document's main <br>content.
+    "footer": Represents the footer for its nearest sectioning content or sectioning root element.<br>
+    "figure": Represents self-contained content, typically with a caption (<figcaption>), and is commonly used to refer to images, diagrams, illustrations, etc.<br>
 By using these tags appropriately, you can make your HTML more semantic and your web content more structured and meaningful.
