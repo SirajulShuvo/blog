@@ -1,7 +1,6 @@
 <h1>What is grid exactly ?</h1>
   <p>CSS Grid Layout is a powerful tool in modern web design that allows developers to create flexible, responsive layouts with ease. Unlike older layout methods like floats and Flexbox, CSS Grid is specifically designed for two-dimensional layouts, making it ideal for complex web designs.</P>
 
-
 <h1>Key Concepts</h1>
 <ul>
     <li>Grid Container: The element with display: grid applied.</li>
@@ -37,6 +36,9 @@ Here's a simple example of a CSS Grid layout:<br>
     text-align: center;
   }
 </style>
+<h1>Conclusion<h1>
+<p>CSS Grid Layout is an essential tool for modern web developers. It simplifies the creation of complex, responsive layouts and enhances the overall user experience. Feel free to check out my projects to see CSS Grid Layout in action!</p>
+
 
 
 
